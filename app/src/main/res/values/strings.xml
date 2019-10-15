@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GRATUITY</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <array name="gbloodgroup">
+        <item>B+</item>
+        <item>B-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>0+</item>
+
+    </array>
+    <array name="gdepart">
+        <item>MECH</item>
+        <item>EEE</item>
+        <item>ECE</item>
+        <item>AUTOMOBLIE</item>
+        <item>CIVIL</item>
+        <item>CHEMICAL</item>
+        <item>FT</item>
+        <item>CT-UG</item>
+        <item>CT-PG</item>
+        <item>CSE</item>
+        <item>IT</item>
+        <item>MCA</item>
+        <item>MBA</item>
+        <item>BARCH</item>
+
+    </array>
+
+    <string name="name">Name</string>
+    <string name="gdpart">Email</string>
+    <string name="weight">weight</string>
+    <string name="password">Password</string>
+    <string name="roll_no">Roll no</string>
+    <string name="blood_group">bloodgroup</string>
+    <string name="age">age</string>
+    <string name="phone">phone no</string>
+
+
+</resources>
